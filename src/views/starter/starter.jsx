@@ -16,7 +16,7 @@ import {
   ChatListing,
   ProgressCards,
   RecentComments,
-} from "components/dashboard-components";
+} from "../../components/dashboard-components";
 
 import img1 from "../../assets/images/big/img1.jpg";
 import img2 from "../../assets/images/big/img2.jpg";

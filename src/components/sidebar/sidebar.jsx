@@ -60,7 +60,7 @@ const Sidebar = (props) => {
                 );
               }
             })}
-            <a href="/" className="btn btn-danger btn-block mt-3 mx-3">
+            <a href="https://www.wrappixel.com/templates/ample-react-dashboard/" className="btn btn-danger btn-block mt-3 mx-3">
               Upgrade To Pro
             </a>
           </Nav>
