@@ -13,7 +13,7 @@ import {
   Dropdown,
   Button,
 } from "reactstrap";
-import { ReactComponent as LogoWhite } from "../assets/images/logos/xtremelogowhite.svg";
+import { ReactComponent as LogoWhite } from "../assets/images/logos/amplelogowhite.svg";
 import user1 from "../assets/images/users/user1.jpg";
 
 const Header = () => {
