@@ -95,7 +95,7 @@ If you have project which needs more features and options, you can buy <a href="
 <ul>
 <li><a href="https://www.wrappixel.com/templates/category/admin-template/">Admin Dashboard Template</a> from WrapPixel</li>
 <li><a href="https://www.wrappixel.com/">Free Bootstrap Themes</a> from WrapPixel</li>
-<li><a href="https://www.wrappixel.com/templates/category/bootstrap-admin-templates/">Bootstrap 4 Admin Dashboard Templates</a> from WrapPixel</li>
+<li><a href="https://www.wrappixel.com/templates/category/bootstrap-admin-templates/">Bootstrap 5 Admin Dashboard Templates</a> from WrapPixel</li>
 <li><a href="https://www.wrappixel.com/templates/category/angular-templates/">Angular Admin Template</a> from WrapPixel</li>
 <li><a href="https://www.wrappixel.com/templates/category/react-templates/">React Products</a> from WrapPixel</li>
 <li><a href="https://www.wrappixel.com/templates/category/vuejs-templates/">Vue Products</a> from WrapPixel</li>
